@@ -40,7 +40,6 @@
 
 .earphone__btn {
     width: 420px;
-    height: 110px;
     position: absolute;
     left: 50px;
     top: 485px;
@@ -156,9 +155,8 @@
 @media (max-width: 767px) {
     .earphone__btn {
         width: 100%;
-        max-width: 320px;
-        left: 15px;
-        right: 15px;
+        left: 0px;
+        right: 0px;
     }
 
     .earphone__title {
